@@ -1,3 +1,5 @@
+<head>
+<style>
 ul {
   list-style-type: none;
   margin: 0;
@@ -26,6 +28,8 @@ li a:hover {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#binairstelsel">binairstelsel</a></li>
-  <li><a href="#kleurmodellen">kleurmodellen</a></li>
+  <li><a href="#news">binairstelsel</a></li>
+  <li><a href="#contact">kleurmodellen</a></li>
 </ul>
+
+</body>
